@@ -1,0 +1,40 @@
+HTML 5
+1.	What is HTML
+2.	Why HTML is used?
+3.	HTML file structure
+a.	<!DOCTYPE html>
+b.	<html>
+c.	<head>
+d.	<title>
+e.	<body>
+
+4.	HTML comments
+5.	Headings H1, H2, H3….H6
+6.	Paragraph
+7.	Links and Brakes
+8.	Text Formatting
+9.	Links and Images ( anchor tag and src tag)
+10.	Absolute vs Relative path
+11.	Ordered list
+12.	Unordered list
+13.	Description list
+14.	Table structure
+15.	Table attribute
+16.	Form tag
+17.	Input types
+•	Text
+•	Password
+•	Email
+•	Number
+•	Radio
+•	Checkbox
+•	submit
+18.	Labels
+19.	Select and textarea
+20.	HTML attributes
+21.	Semantic HTML 
+22.	Multimedia Audio and Video
+
+
+
+
